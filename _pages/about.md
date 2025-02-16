@@ -9,7 +9,7 @@ redirect_from:
 Wenkai(Kevin) LI - 李文凯
 ------
 
-Hi! I’m Wenkai LI, a Ph.D. student at the Electronic and Computer Engineering Department of The Hong Kong University of Science and Technology, advised by [Prof. Zhiyao Xie](https://zhiyaoxie.com/). Before that, I received a bachelor’s degree in Electronics and Information Engineering from Harbin Institute of Technology, Shenzhen (HITSZ).
+Hi! I’m Wenkai LI, a Ph.D. student at the Electronic and Computer Engineering Department of The Hong Kong University of Science and Technology, advised by [Prof. Zhiyao Xie](https://zhiyaoxie.com/). I received a bachelor’s degree in Electronics and Information Engineering from Harbin Institute of Technology, Shenzhen (HITSZ).
 
 Research Interests
 ======
@@ -24,8 +24,9 @@ Education and Experiences
 
 | Institution/Organization                        | Role/Program                                                | Duration                  |
 |--------------------------------------------------|------------------------------------------------------------|---------------------------|
-| **Harbin Institute of Technology, Shenzhen (HITSZ)** | B. Eng in Electronics and Information Engineering (Communication Engineering) | Aug. 2019 – Jul. 2023    |
+| **The Hong Kong University of Science and Technology (HKUST)** | Ph.D. in Electronic and Computer Engineering | Aug. 2024 – present    |
 | **AI Chip Center for Emerging Smart System (ACCESS)** | Project Intern                                             | Dec. 2023 - Jun. 2024     |
+| **Harbin Institute of Technology, Shenzhen (HITSZ)** | B. Eng in Electronics and Information Engineering  | Aug. 2019 – Jul. 2023    |
 | **City University of Hong Kong**                 | Exchange Programme in Department of Electrical Engineering | Jan. 2022 – May. 2022     |
 
 

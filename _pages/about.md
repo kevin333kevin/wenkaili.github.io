@@ -19,21 +19,18 @@ Research Interests
 
 Education and Academic Experiences
 ======
-### B. Eng in Electronics and Information Engineering (Communication Engineering)
+### Harbin Institute of Technology, Shenzhen (HITSZ)
 
-**Harbin Institute of Technology, Shenzhen (HITSZ)**  
+**B. Eng in Electronics and Information Engineering (Communication Engineering)**  
 **Duration:** Aug. 2019 – Jul. 2023
 
-### Project Intern
+### AI Chip Center for Emerging Smart System (ACCESS)
 
-**AI Chip Center for Emerging Smart System (ACCESS)**
+**Project Intern**
 **Duration:** Dec. 2023 - Jun. 2024
 
-**Harbin Institute of Technology, Shenzhen (HITSZ)**  
-**Duration:** Aug. 2019 – Jul. 2023
 
+### City University of Hong Kong
 
-### Exchange Programme in College of Engineering
-
-**City University of Hong Kong**  
+**Exchange Programme in Department of Electrical Engineering**  
 **Duration:** Jan. 2022 – May. 2022

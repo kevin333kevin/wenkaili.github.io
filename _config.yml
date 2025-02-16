@@ -8,11 +8,11 @@
 
 # Basic Site Setting
 locale                   : "en-US"
-site_theme               : "Wenkai LI PhD student in HKUST"
+site_theme               : "Wenkai LI 李文凯 HKUST"
 title                    : "Wenkai LI / Homepage"
 title_separator          : "-"
 name                     : &name "Wenkai LI"
-description              : &description "personal description"
+description              : &description "Wenkai LI personal description"
 url                      : https://kevin333kevin.github.io/wenkaili.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://kevin333kevin.github.io/wenkaili.github.io"

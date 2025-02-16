@@ -8,7 +8,7 @@
 
 # Basic Site Setting
 locale                   : "en-US"
-site_theme               : "WenkaiLI"
+site_theme               : "default"
 title                    : "Wenkai LI / Homepage"
 title_separator          : "-"
 name                     : &name "Wenkai LI"

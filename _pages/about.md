@@ -17,26 +17,10 @@ Research Interests
 1. Electronic Design Automation(EDA)
 2. Machine Learning
 
-Education and Academic Experiences
+Education and Experiences
 ======
 
-### Harbin Institute of Technology, Shenzhen (HITSZ)
 
-**B. Eng in Electronics and Information Engineering (Communication Engineering)**  
-**Duration:** Aug. 2019 – Jul. 2023
-
-### AI Chip Center for Emerging Smart System (ACCESS)
-
-**Project Intern**
-**Duration:** Dec. 2023 - Jun. 2024
-
-
-### City University of Hong Kong
-
-**Exchange Programme in Department of Electrical Engineering**  
-**Duration:** Jan. 2022 – May. 2022
-
-### Education and Experience
 
 | Institution/Organization                        | Role/Program                                                | Duration                  |
 |--------------------------------------------------|------------------------------------------------------------|---------------------------|

@@ -22,5 +22,18 @@ Education and Academic Experiences
 ### B. Eng in Electronics and Information Engineering (Communication Engineering)
 
 **Harbin Institute of Technology, Shenzhen (HITSZ)**  
-**Overall GPA:** 91.3/100   
 **Duration:** Aug. 2019 – Jul. 2023
+
+### Project Intern
+
+**AI Chip Center for Emerging Smart System (ACCESS)**
+**Duration:** Dec. 2023 - Jun. 2024
+
+**Harbin Institute of Technology, Shenzhen (HITSZ)**  
+**Duration:** Aug. 2019 – Jul. 2023
+
+
+### Exchange Programme in College of Engineering
+
+**City University of Hong Kong**  
+**Duration:** Jan. 2022 – May. 2022

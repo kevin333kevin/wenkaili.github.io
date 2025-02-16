@@ -27,3 +27,9 @@ Education and Experiences
 | **Harbin Institute of Technology, Shenzhen (HITSZ)** | B. Eng in Electronics and Information Engineering (Communication Engineering) | Aug. 2019 – Jul. 2023    |
 | **AI Chip Center for Emerging Smart System (ACCESS)** | Project Intern                                             | Dec. 2023 - Jun. 2024     |
 | **City University of Hong Kong**                 | Exchange Programme in Department of Electrical Engineering | Jan. 2022 – May. 2022     |
+
+
+Personal
+======
+
+In my leisure time, I enjoy photography, and I'm a loyal user of Sony and Tamron. I typically like to shoot landscapes, portraits, and flowers and animals. You can find my photos in the Gallery.

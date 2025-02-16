@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ HKUST"
   location         : "Hong Kong SAR, China"
-  employer         : "The Hong Kong University of Science and Technology"
+  # employer         : "The Hong Kong University of Science and Technology"
   uri              :  https://kevin333kevin.github.io/wenkaili.github.io/
   email            : "wlidm@connect.ust.hk" 
 

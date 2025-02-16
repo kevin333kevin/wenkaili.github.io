@@ -9,9 +9,6 @@ redirect_from:
 Wenkai(Kevin) LI - 李文凯
 ======
 
-About Me
-======
-
 Hi! I’m Wenkai LI, a Ph.D. student at the Electronic and Computer Engineering Department of The Hong Kong University of Science and Technology, advised by [Prof. Zhiyao Xie](https://zhiyaoxie.com/). Before that, I received a bachelor’s degree in Electronics and Information Engineering from Harbin Institute of Technology, Shenzhen (HITSZ).
 
 Research Interests

@@ -8,7 +8,7 @@
 
 # Basic Site Setting
 locale                   : "en-US"
-site_theme               : "Wenkai LI 李文凯 HKUST"
+site_theme               : "Wenkai LI HKUST"
 title                    : "Wenkai LI / Homepage"
 title_separator          : "-"
 name                     : &name "Wenkai LI"

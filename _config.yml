@@ -13,9 +13,9 @@ title                    : "Wenkai LI / Homepage"
 title_separator          : "-"
 name                     : &name "Wenkai LI"
 description              : &description "personal description"
-url                      : https://kevin333kevin.github.io/wenkaili.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://kevin333kevin.github.io/wenkaili.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://kevin333kevin.github.io/wenkaili.github.io/"
+repository               : "https://kevin333kevin.github.io/wenkaili.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   employer         : "HKUST"
   location         : "Hong Kong SAR, China"
   
-  uri              :  https://kevin333kevin.github.io/wenkaili.github.io/
+  uri              :  https://kevin333kevin.github.io/wenkaili.github.io
   email            : "wlidm@connect.ust.hk" 
 
   # Academic websites

@@ -6,7 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
+# Basic Site Setting
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Wenkai LI / Homepage"

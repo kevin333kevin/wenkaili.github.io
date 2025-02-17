@@ -33,4 +33,4 @@ Education and Experiences
 Personal
 ======
 
-In my leisure time, I enjoy photography, and I'm a loyal user of Sony and Tamron. I typically like to shoot landscapes, portraits, and flowers and animals. You can find my photos in the [Gallery](https://kevin333kevin.github.io/wenkaili.github.io//gallery/).
+In my leisure time, I enjoy photography, and I'm a loyal user of Sony and Tamron. I typically like to shoot landscapes, portraits, flowers, and animals. You can find my photos in the [Gallery](https://kevin333kevin.github.io/wenkaili.github.io//gallery/).
